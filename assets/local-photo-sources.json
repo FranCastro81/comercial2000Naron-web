@@ -1,0 +1,422 @@
+[
+  {
+    "file": "assets/local-botas-vino.webp",
+    "thumbnail": "assets/local-botas-vino-thumb.webp",
+    "source": "550224576_17908559547239059_1224537456388748067_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-cuerda-amarilla.webp",
+    "thumbnail": "assets/local-cuerda-amarilla-thumb.webp",
+    "source": "551438332_17923907481132228_379273905766454315_n.webp",
+    "originalWidth": 1152,
+    "originalHeight": 2048,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-salvacruz-zaldi.webp",
+    "thumbnail": "assets/local-salvacruz-zaldi-thumb.webp",
+    "source": "555051760_17925569742113189_6419821056411561669_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-pantalon-issaline.webp",
+    "thumbnail": "assets/local-pantalon-issaline-thumb.webp",
+    "source": "556404167_17958237341994389_9189381217757063746_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-montura-negra.webp",
+    "thumbnail": "assets/local-montura-negra-thumb.webp",
+    "source": "559084661_17964377864972620_7304936293322862619_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 1054,
+    "height": 1600,
+    "crop": [
+      0,
+      200,
+      1080,
+      1640
+    ]
+  },
+  {
+    "file": "assets/local-montura-ludomar.webp",
+    "thumbnail": "assets/local-montura-ludomar-thumb.webp",
+    "source": "563661776_17967830141812110_5804585080144638989_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-calzado-tienda.webp",
+    "thumbnail": "assets/local-calzado-tienda-thumb.webp",
+    "source": "565600337_18046706372404079_5098124453024151185_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-botin-clean-lady.webp",
+    "thumbnail": "assets/local-botin-clean-lady-thumb.webp",
+    "source": "567509132_18079934981040966_5970466858367296233_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-hilo-encerado.webp",
+    "thumbnail": "assets/local-hilo-encerado-thumb.webp",
+    "source": "568656306_18094556368751609_3338444715994621009_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-cubos-establo.webp",
+    "thumbnail": "assets/local-cubos-establo-thumb.webp",
+    "source": "569011188_18048509630340951_6527205423165716861_n.webp",
+    "originalWidth": 1152,
+    "originalHeight": 2048,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-plantillas-robusta.webp",
+    "thumbnail": "assets/local-plantillas-robusta-thumb.webp",
+    "source": "569556356_18059129066405086_9001386199899055713_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 1080,
+    "height": 580,
+    "crop": [
+      0,
+      650,
+      1080,
+      580
+    ]
+  },
+  {
+    "file": "assets/local-manta-caballo.webp",
+    "thumbnail": "assets/local-manta-caballo-thumb.webp",
+    "source": "570337292_18119529184524402_8265858875180425836_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-montura-portuguesa.webp",
+    "thumbnail": "assets/local-montura-portuguesa-thumb.webp",
+    "source": "570515850_18084001525821762_7842892576948260081_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-reparacion-cinchas.webp",
+    "thumbnail": "assets/local-reparacion-cinchas-thumb.webp",
+    "source": "571208040_18097798360811939_3552709578824370492_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-botas-fal.webp",
+    "thumbnail": "assets/local-botas-fal-thumb.webp",
+    "source": "573113931_18072831686004103_36580413413017444_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-serretas.webp",
+    "thumbnail": "assets/local-serretas-thumb.webp",
+    "source": "573329556_18086455525941918_3599299398346199412_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-comedero.webp",
+    "thumbnail": "assets/local-comedero-thumb.webp",
+    "source": "573533158_18087509089756615_8016027738755568363_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-zapato-trabajo.webp",
+    "thumbnail": "assets/local-zapato-trabajo-thumb.webp",
+    "source": "574355078_18103399111726208_6834719794348122543_n (1).webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-pieles-colores.webp",
+    "thumbnail": "assets/local-pieles-colores-thumb.webp",
+    "source": "574426753_18123806407511083_2147128546865862194_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 680,
+    "height": 940,
+    "crop": [
+      60,
+      550,
+      680,
+      940
+    ]
+  },
+  {
+    "file": "assets/local-cuidados-caballo.webp",
+    "thumbnail": "assets/local-cuidados-caballo-thumb.webp",
+    "source": "575072766_18108754834614119_2640341866149878145_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-montura-asiento-negro.webp",
+    "thumbnail": "assets/local-montura-asiento-negro-thumb.webp",
+    "source": "576049556_18540454105032915_7207931079270287022_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-botas-fal-goretex.webp",
+    "thumbnail": "assets/local-botas-fal-goretex-thumb.webp",
+    "source": "582464809_18334291567235399_1659452941195891337_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-soporte-montura.webp",
+    "thumbnail": "assets/local-soporte-montura-thumb.webp",
+    "source": "584334340_18025185599773623_6064834377304088375_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 1080,
+    "height": 1030,
+    "crop": [
+      0,
+      400,
+      1080,
+      1030
+    ]
+  },
+  {
+    "file": "assets/local-caldero.webp",
+    "thumbnail": "assets/local-caldero-thumb.webp",
+    "source": "585178366_18160292371401441_7024550164236697861_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-montura-salto.webp",
+    "thumbnail": "assets/local-montura-salto-thumb.webp",
+    "source": "585207826_18328680790244683_5752768646289835115_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-chaleco-reflectante.webp",
+    "thumbnail": "assets/local-chaleco-reflectante-thumb.webp",
+    "source": "587301940_18320497072170284_5802550943009524593_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-grasa-cuero.webp",
+    "thumbnail": "assets/local-grasa-cuero-thumb.webp",
+    "source": "587484036_18094402522851877_196391068799656910_n.webp",
+    "originalWidth": 1080,
+    "originalHeight": 1920,
+    "width": 900,
+    "height": 1600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-riendas.webp",
+    "thumbnail": "assets/local-riendas-thumb.webp",
+    "source": "Captura de pantalla 2026-10-02 125413.png",
+    "originalWidth": 853,
+    "originalHeight": 1348,
+    "width": 853,
+    "height": 1348,
+    "crop": null
+  },
+  {
+    "file": "assets/local-navaja-negra.webp",
+    "thumbnail": "assets/local-navaja-negra-thumb.webp",
+    "source": "Captura de pantalla 2026-10-02 125451.png",
+    "originalWidth": 724,
+    "originalHeight": 1066,
+    "width": 724,
+    "height": 1066,
+    "crop": null
+  },
+  {
+    "file": "assets/local-navajas-tradicionales.webp",
+    "thumbnail": "assets/local-navajas-tradicionales-thumb.webp",
+    "source": "Captura de pantalla 2026-10-02 125519.png",
+    "originalWidth": 813,
+    "originalHeight": 1126,
+    "width": 813,
+    "height": 1126,
+    "crop": null
+  },
+  {
+    "file": "assets/local-cuidado-diptron.webp",
+    "thumbnail": "assets/local-cuidado-diptron-thumb.webp",
+    "source": "Captura de pantalla 2026-10-02 125547.png",
+    "originalWidth": 859,
+    "originalHeight": 600,
+    "width": 859,
+    "height": 600,
+    "crop": null
+  },
+  {
+    "file": "assets/local-anilla-amarre.webp",
+    "thumbnail": "assets/local-anilla-amarre-thumb.webp",
+    "source": "Captura de pantalla 2026-10-02 125640.png",
+    "originalWidth": 853,
+    "originalHeight": 943,
+    "width": 853,
+    "height": 943,
+    "crop": null
+  },
+  {
+    "file": "assets/local-piqueta.webp",
+    "thumbnail": "assets/local-piqueta-thumb.webp",
+    "source": "Captura de pantalla 2026-10-02 125725.png",
+    "originalWidth": 856,
+    "originalHeight": 1024,
+    "width": 856,
+    "height": 1024,
+    "crop": null
+  },
+  {
+    "file": "assets/local-bebedero.webp",
+    "thumbnail": "assets/local-bebedero-thumb.webp",
+    "source": "Captura de pantalla 2026-10-02 125756.png",
+    "originalWidth": 856,
+    "originalHeight": 1216,
+    "width": 856,
+    "height": 1216,
+    "crop": null
+  },
+  {
+    "file": "assets/local-escaparate.webp",
+    "thumbnail": "assets/local-escaparate-thumb.webp",
+    "source": "Historias • Instagram1_files\\453761251_459418696979490_7215344510495761860_n.jpg",
+    "originalWidth": 898,
+    "originalHeight": 898,
+    "width": 898,
+    "height": 898,
+    "crop": null
+  },
+  {
+    "file": "assets/local-panderetas.webp",
+    "thumbnail": "assets/local-panderetas-thumb.webp",
+    "source": "Historias • Instagram1_files\\489847413_17880088134277384_4363900169512484448_n.webp",
+    "originalWidth": 150,
+    "originalHeight": 150,
+    "width": 150,
+    "height": 150,
+    "crop": null
+  },
+  {
+    "file": "assets/local-comunidad-ecuestre.webp",
+    "thumbnail": "assets/local-comunidad-ecuestre-thumb.webp",
+    "source": "Historias • Instagram1_files\\672344898_17925956247277384_8370191074456811241_n.webp",
+    "originalWidth": 1440,
+    "originalHeight": 1440,
+    "width": 1440,
+    "height": 1440,
+    "crop": null
+  },
+  {
+    "file": "assets/local-feria-moeche.webp",
+    "thumbnail": "assets/local-feria-moeche-thumb.webp",
+    "source": "Historias • Instagram1_files\\728152485_17934735849277384_4374748697676142697_n.webp",
+    "originalWidth": 1440,
+    "originalHeight": 1440,
+    "width": 1440,
+    "height": 1440,
+    "crop": null
+  },
+  {
+    "file": "assets/local-ruta-caballo.webp",
+    "thumbnail": "assets/local-ruta-caballo-thumb.webp",
+    "source": "Historias • Instagram1_files\\742595033_17938158477277384_290100499265024575_n.webp",
+    "originalWidth": 1440,
+    "originalHeight": 1440,
+    "width": 1440,
+    "height": 1440,
+    "crop": null
+  },
+  {
+    "file": "assets/local-botas-neopreno.webp",
+    "thumbnail": "assets/local-botas-neopreno-thumb.webp",
+    "source": "Historias • Instagram1_files\\764457146_17942281260277384_5904361266348104046_n.webp",
+    "originalWidth": 1440,
+    "originalHeight": 1440,
+    "width": 1440,
+    "height": 1440,
+    "crop": null
+  }
+]

@@ -1,0 +1,5 @@
+;/*FB_PKG_DELIM*/
+
+__d("useShouldPreloadPolarisQuery",["useRouteReferrer"],(function(t,n,r,o,a,i,l){"use strict";function e(){var e=r("useRouteReferrer")();return(e==null?void 0:e.isBackgroundRoute)!==!0&&((e==null?void 0:e.navigationType)==="initial"||(e==null?void 0:e.navigationType)==="reload")}l.default=e}),98);
+__d("usePolarisQueryPreloaderID",["useShouldPreloadPolarisQuery"],(function(t,n,r,o,a,i,l){"use strict";function e(e,t){var n=r("useShouldPreloadPolarisQuery")();return t===!0?null:(e.preloadEnabledOnInit||e.preloadEnabledOnNav)&&n?e.preloaderID:null}l.default=e}),98);
+__d("usePolarisPreloadedGetQuery",["react-compiler-runtime","usePolarisQueryPreloaderID","usePolarisQueryStore"],(function(t,n,r,o,a,i,l){"use strict";function e(e,t,n){var a=o("react-compiler-runtime").c(6),i=r("usePolarisQueryStore")(),l=r("usePolarisQueryPreloaderID")(e,n),s;return a[0]!==t||a[1]!==e.request.params||a[2]!==e.request.url||a[3]!==l||a[4]!==i?(s=i.loadGetQuery([e.request.url,e.request.params],t,l),a[0]=t,a[1]=e.request.params,a[2]=e.request.url,a[3]=l,a[4]=i,a[5]=s):s=a[5],s}l.default=e}),98);
