@@ -1,11 +1,11 @@
 # MEMORY.md — Contexto persistente del agente
 
 ## Identidad del proyecto
-- **Nombre del proyecto:** Comerciial 2000 — Tienda online y presencia web.
+- **Nombre del proyecto:** Comercial 2000 Narón — Tienda online y presencia web.
 - **Objetivo:** Web moderna, responsive y orientada a ventas, con productos reales, carrito y contacto sencillo.
 
 ## Negocio y marca
-- **Empresa:** Comerciial 2000, con dos letras `i` consecutivas, en Narón (Galicia).
+- **Empresa:** Comercial 2000 Narón, en Narón (Galicia).
 - **Actividad verificada:** Equitación, ropa y calzado de trabajo, pieles y complementos. El concepto inicial de maquinaria no corresponde al catálogo real.
 - **Idioma y tono:** Español para público de España/Galicia; profesional, cercano, claro y orientado a compras y consultas.
 - **Estilo visual:** Colores neutros, verde oscuro y acentos naranja, coherentes con las fotografías reales.
@@ -18,6 +18,7 @@
 - **Procedencia:** `FOTOS.md` y `assets/local-photo-sources.json`; la importación pública anterior está documentada en `INSTAGRAM.md` y `assets/instagram-sources.json`.
 
 ## Estado actual
+- Nombre actualizado por petición del usuario a Comercial 2000 Narón en textos, metadatos, cabecera, pie y documentación. Se conservan los enlaces oficiales de Instagram y las claves del carrito.
 - Catálogo de 34 fichas en seis categorías: Monturas, Equitación, Ropa y calzado, Cuidados y pieles, Campo y establo, y Complementos.
 - Catálogo y galería renderizados desde el servidor con `storefront.mjs`; sin JS se muestran 34 fichas. El navegador mantiene filtros, carga progresiva de 12 fichas, diálogos y carrito persistente.
 - Galería ampliable de ocho imágenes: local, reparación de correas, pieles, monturas, comunidad ecuestre, feria de Moeche, herraduras en la tienda y salida a caballo.

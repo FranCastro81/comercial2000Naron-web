@@ -1,11 +1,11 @@
-# Comerciial 2000 · Demo del proyecto
+# Comercial 2000 Narón · Demo del proyecto
 
 **Catálogo visual, selección de productos y presencia digital de una tienda de Narón.**
 
 | Dato | Descripción |
 | --- | --- |
 | Fecha de la demo | 2 de octubre de 2026 |
-| Marca | Comerciial 2000, con dos letras `i` consecutivas |
+| Marca | Comercial 2000 Narón |
 | Actividad | Equitación, ropa y calzado de trabajo, pieles y complementos |
 | Contenido | 34 fichas, seis categorías y ocho imágenes de galería |
 | Idioma y moneda | Español de España · EUR |
@@ -25,7 +25,7 @@
 
 ## 1. Presentación
 
-Comerciial 2000 convierte las fotografías reales de la tienda y su contenido de Instagram en un catálogo organizado y fácil de consultar. La experiencia une productos, servicios, tutoriales, comunidad ecuestre y tienda física.
+Comercial 2000 Narón convierte las fotografías reales de la tienda y su contenido de Instagram en un catálogo organizado y fácil de consultar. La experiencia une productos, servicios, tutoriales, comunidad ecuestre y tienda física.
 
 La identidad visual combina fondos neutros, verde oscuro y botones naranja. La portada destaca una montura real; las fichas presentan el producto completo y la galería aporta contexto del local y de la comunidad.
 
@@ -75,7 +75,7 @@ Capturas reales de esta versión, realizadas con Microsoft Edge. Las de escritor
 
 Presenta la marca, la fotografía de montura y los accesos «Explorar productos» y «Conoce nuestros servicios». El aviso informa de que precios y disponibilidad están pendientes.
 
-![Portada de Comerciial 2000 con menú y fotografía real de una montura](docs/demo/01-portada.png)
+![Portada de Comercial 2000 Narón con menú y fotografía real de una montura](docs/demo/01-portada.png)
 
 ### 3.2. Catálogo
 
@@ -95,7 +95,7 @@ La tarjeta de Ropa de trabajo muestra la foto sin oscurecerla y funciona como un
 
 Acceso a la historia destacada Tutoriales de Instagram. Actualmente los vídeos se consultan allí; no hay reproductores locales porque el material recibido no incluye archivos de vídeo.
 
-![Apartado Tutoriales con enlace a la historia destacada de Comerciial 2000](docs/demo/04-tutoriales.png)
+![Apartado Tutoriales con enlace a la historia destacada de Comercial 2000 Narón](docs/demo/04-tutoriales.png)
 
 ### 3.5. Galería
 
@@ -107,7 +107,7 @@ Ocho imágenes del local, correas, pieles, monturas y comunidad ecuestre. Cada f
 
 Fotografía completa del escaparate y presentación del negocio en **Rua Álvaro Paradela n.º 1, Narón**.
 
-![Sección Sobre nosotros con el escaparate de Comerciial 2000 y su dirección](docs/demo/06-tienda.png)
+![Sección Sobre nosotros con el escaparate de Comercial 2000 Narón y su dirección](docs/demo/06-tienda.png)
 
 ### 3.7. Contacto
 
@@ -133,7 +133,7 @@ Las capturas muestran botas de neopreno y una silla Ludomar. Las cantidades son 
 
 Portada adaptable y menú desplegable con acceso a las siete secciones. El menú también se usa en tablets de hasta 1000 px.
 
-![Portada de Comerciial 2000 en un viewport móvil de 375 píxeles](docs/demo/11-movil-portada.png)
+![Portada de Comercial 2000 Narón en un viewport móvil de 375 píxeles](docs/demo/11-movil-portada.png)
 
 ![Menú móvil desplegado con enlaces a productos, servicios, tutoriales y contacto](docs/demo/12-movil-menu.png)
 

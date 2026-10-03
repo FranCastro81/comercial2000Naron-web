@@ -148,7 +148,7 @@ async function copyText(text, fallback) {
   catch { fallback.hidden = false; fallback.value = text; fallback.focus(); fallback.select(); notify('Texto seleccionado. Usa Copiar o Ctrl/Cmd + C.'); }
 }
 function copySelection() {
-  return copyText(`Hola, Comerciial 2000. Me gustaría consultar por:\n\n${cartLines().map(({ product, quantity }) => `${quantity} × ${product.name}: ${money(lineTotal(product, quantity))}`).join('\n')}\n\nSubtotal: ${money(cartTotal())}\nPor favor, confirmad modelo, talla, precio, disponibilidad, impuestos y envío. Gracias.`, $('#cart-copy'));
+  return copyText(`Hola, Comercial 2000 Narón. Me gustaría consultar por:\n\n${cartLines().map(({ product, quantity }) => `${quantity} × ${product.name}: ${money(lineTotal(product, quantity))}`).join('\n')}\n\nSubtotal: ${money(cartTotal())}\nPor favor, confirmad modelo, talla, precio, disponibilidad, impuestos y envío. Gracias.`, $('#cart-copy'));
 }
 $('#copy-cart').addEventListener('click', copySelection);
 
@@ -206,7 +206,7 @@ $('#open-account').addEventListener('click', () => {
   showDialog('info-dialog');
 });
 const legal = {
-  legal: ['Aviso legal', 'Información pendiente de completar con la razón social, identificación fiscal, domicilio y datos del titular de Comerciial 2000.'],
+  legal: ['Aviso legal', 'Información pendiente de completar con la razón social, identificación fiscal, domicilio y datos del titular de Comercial 2000 Narón.'],
   privacy: ['Privacidad', 'Esta vista previa guarda únicamente la selección del carrito en el almacenamiento local del navegador. Las consultas se preparan en tu dispositivo. Si se configura el envío, se comunicarán al canal de la empresa. Las fuentes externas se cargan desde Google Fonts. La política definitiva deberá incluir el responsable, las finalidades, los plazos de conservación y el contacto para ejercer tus derechos.'],
   conditions: ['Condiciones de compra', 'Las fotografías se han importado del perfil público de la empresa. Los precios, variantes y existencias todavía no están confirmados y el pago online no está habilitado. Los impuestos, los gastos de envío, los plazos, las devoluciones y las garantías se publicarán con los datos facilitados por la tienda.']
 };
@@ -229,7 +229,7 @@ $('#contact-form').addEventListener('submit', async event => {
   $('#contact-message').value = '';
   if (!status.contactReady) {
     $('#contact-result').hidden = false;
-    $('#contact-message').value = `Hola, Comerciial 2000.\nSoy ${payload.name}. Mi email es ${payload.email}.\n\n${payload.message}`;
+    $('#contact-message').value = `Hola, Comercial 2000 Narón.\nSoy ${payload.name}. Mi email es ${payload.email}.\n\n${payload.message}`;
     $('#contact-message').focus();
     $('#contact-status').textContent = 'Consulta preparada. Cópiala y compártela con la tienda; todavía no se ha enviado.';
     return;

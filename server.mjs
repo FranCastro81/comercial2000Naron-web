@@ -170,5 +170,5 @@ export function createServer(env = process.env) {
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   const port = Number(process.env.PORT || 3000);
-  createServer().listen(port, '127.0.0.1', () => console.log(`Comerciial 2000 disponible en http://localhost:${port}`));
+  createServer().listen(port, '127.0.0.1', () => console.log(`Comercial 2000 Narón disponible en http://localhost:${port}`));
 }

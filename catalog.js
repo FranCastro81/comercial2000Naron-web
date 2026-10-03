@@ -1,6 +1,6 @@
 // Fotografías clasificadas de la carpeta facilitada por la empresa.
 export const shop = {
-  name: 'Comerciial 2000',
+  name: 'Comercial 2000 Narón',
   instagram: 'https://www.instagram.com/comerciial2000/',
   catalogReady: false,
   currency: 'EUR',
