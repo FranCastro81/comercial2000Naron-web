@@ -67,3 +67,5 @@ dialog{max-height:90dvh;overflow-y:auto;overscroll-behavior:contain}
 .service-card-link:hover{background:#edf1e8}
 .service-card-link:focus-visible{outline:3px solid var(--orange);outline-offset:4px}
 @media(min-width:761px) and (max-width:1000px){.menu-toggle{display:grid;margin-left:auto;font-size:21px}.header nav{display:none;position:absolute;top:90px;left:0;right:0;background:var(--paper);padding:13px 28px 22px;border-bottom:1px solid var(--line);box-shadow:0 12px 20px #25302012;flex-direction:column;gap:0}.header nav.open{display:flex}.header nav a{padding:12px 0;font-size:13px}.no-js .header-inner{height:auto;min-height:90px;flex-wrap:wrap;padding:16px 0}.no-js .header nav{display:flex;position:static;flex-basis:100%;flex-direction:row;flex-wrap:wrap;gap:0 18px;padding:0;border:0;box-shadow:none}}
+.brand{flex-shrink:0;letter-spacing:0}.brand strong{font-size:18px;white-space:nowrap}.brand-mark{flex-shrink:0}
+@media(max-width:420px){.brand{gap:7px;font-size:14px}.brand strong{font-size:16px}.brand-mark{width:34px;height:34px}}

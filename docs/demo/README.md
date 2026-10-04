@@ -1,6 +1,6 @@
 # Capturas de la demo
 
-Capturas de la interfaz local de Comerciial 2000, realizadas el 2 de octubre de 2026 con Microsoft Edge y Playwright.
+Capturas de la interfaz local de Comercial 2000 Narón, realizadas el 2 de octubre de 2026 con Microsoft Edge y Playwright.
 
 - Escritorio: viewport de 1440 × 1000 px; las capturas de sección abarcan su contenido completo.
 - Móvil: viewport de 375 × 812 px.

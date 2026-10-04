@@ -1,4 +1,4 @@
-# Diagnóstico y reparación de Comerciial 2000
+# Diagnóstico y reparación de Comercial 2000 Narón
 
 Fecha: 2 de octubre de 2026.
 

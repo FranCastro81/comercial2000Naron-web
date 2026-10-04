@@ -1,4 +1,4 @@
-# Comerciial 2000 · Tienda online
+# Comercial 2000 Narón · Tienda online
 
 Tienda responsive con catálogo filtrable, buscador sin distinción de tildes, ordenación, fichas con galería de imágenes, carrito persistente, cantidades, resumen de compra, servicios, galería de trabajos y formulario de contacto.
 
@@ -56,7 +56,7 @@ El servidor recalcula el importe desde el catálogo, valida referencias y cantid
 
 ## Tutoriales
 
-El apartado `#tutoriales`, accesible desde el menú y el pie, enlaza a la historia destacada Tutoriales de Comerciial 2000. La carpeta `Tutoriales/` recibida contiene páginas guardadas de Instagram, imágenes y código, pero no los archivos de vídeo. Para incorporar reproducción dentro de la web se necesitan los originales MP4 o WebM. La revisión y procedencia del enlace están documentadas en `TUTORIALES.md`.
+El apartado `#tutoriales`, accesible desde el menú y el pie, enlaza a la historia destacada Tutoriales de Comercial 2000 Narón. La carpeta `Tutoriales/` recibida contiene páginas guardadas de Instagram, imágenes y código, pero no los archivos de vídeo. Para incorporar reproducción dentro de la web se necesitan los originales MP4 o WebM. La revisión y procedencia del enlace están documentadas en `TUTORIALES.md`.
 
 ## Contacto y cuenta
 

@@ -18,7 +18,7 @@
 
 ## Catálogo, fotografías y pagos
 
-- La marca es **Comerciial 2000** (dos letras `i` consecutivas), una tienda de equitación y ropa de trabajo en Narón. Utiliza el catálogo y las fuentes de fotos verificadas, en lugar del concepto anterior de maquinaria de ejemplo.
+- La marca es **Comercial 2000 Narón**, una tienda de equitación y ropa de trabajo en Narón. Utiliza el catálogo y las fuentes de fotos verificadas, en lugar del concepto anterior de maquinaria de ejemplo.
 - Los precios son céntimos enteros; `null` significa desconocido, no cero. Las existencias con valor `null` también son desconocidas; el límite de selección de 99 unidades no acredita disponibilidad. Conserva los identificadores de producto: los carritos del navegador los guardan bajo `comerciial2000-cart-v1`.
 - Lee `FOTOS.md` y `assets/local-photo-sources.json` antes de modificar fotos; `INSTAGRAM.md` y `assets/instagram-sources.json` documentan las importaciones públicas anteriores. Conserva los originales y la procedencia de los recortes. Separa los modelos distintos, identifica recortes y miniaturas, y utiliza `thumbnail` en las tarjetas e `images`/`imageLabels` en las vistas completas del producto.
 - Los pagos permanecen desactivados hasta configurar precios y existencias reales, `shop.catalogReady` y las variables de entorno necesarias. La configuración está en `README.md` y `.env.example`; no sustituyas datos desconocidos por valores inventados para habilitar las compras.
